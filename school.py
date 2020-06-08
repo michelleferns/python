@@ -1,0 +1,8 @@
+my_name=input("enter your name>")
+my_age=input("enter your age>")
+my_class=input("enter your class>")
+my_mark=input("enter your marks>")
+print("My name is ",my_name,"fernandes")
+print("My age is ",my_age,"years")
+print("My class is ",my_class,"A")
+print("My marks is ",my_mark,"%")
